@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", function () {
     repl.print([
         "/*",
         "",
-        "Code Monkey v0.1",
+        "Learn Programming By Playing Game",
         "",
         "Supported commands:",
         "",
@@ -23,7 +23,7 @@ window.addEventListener("DOMContentLoaded", function () {
         "me.shootLeft()",
         "me.shootRight()",
         "me.stop() -- stop all actions",
-        "",
+        "or like use if,while,for",
         "You can chain commands, i.e.:",
         "",
         "me.up().shootLeft()",
